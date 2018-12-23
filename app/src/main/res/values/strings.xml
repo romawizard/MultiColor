@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiColor</string>
+    <string name="positiveButton">Ok</string>
+    <string name="negativeButton">Cancel</string>
+    <string name="clear">clear</string>
+    <string name="redo">redo</string>
+    <string name="save">save</string>
+    <string name="undo">undo</string>
+    <string name="paint">paint</string>
+</resources>

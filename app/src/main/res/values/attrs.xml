@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PaintView">
+
+    </declare-styleable>
+
+    <declare-styleable name="ColorPickerView">
+        <attr name="center_radius" format="integer"/>
+        <attr name="palette_width" format="integer"/>
+    </declare-styleable>
+</resources>
